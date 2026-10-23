@@ -1,0 +1,10 @@
+{
+  "outputStyle": "design-coach",
+  "permissions": {
+    "deny": [
+      "Edit(erd.drawio.png)",
+      "Edit(erd.md)",
+      "Edit(schema.sql)"
+    ]
+  }
+}

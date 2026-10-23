@@ -1,0 +1,1 @@
+-- 기능 쿼리: \i teams/<팀이름>/queries.sql (`/ask`로 기능마다 덧붙인다)
